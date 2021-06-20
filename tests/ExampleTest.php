@@ -5,7 +5,7 @@ namespace Tests;
 class ExampleTest extends TestCase
 {
     /** @test */
-    public function can_run_tests()
+    public function canRunTests()
     {
         $this->assertTrue(true);
     }
